@@ -20,15 +20,15 @@ function (firstName, lastName, age){
 ```
 
 | Input | Output |
-| ----- | ------ |
-|       |        | 
-|       |        | 
-|       |        | 
+| ------------------------ | ----------------------- |
+|    Shawn, Cannon, 28     | Shawn Cannon 28         | 
+|    Allison, Cannon, 26   | Allison Cannon 28       | 
+|    Clyde, Galavant, 6    |  Clyde Galavant 6       | 
 
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td>This program takes 3 inputs; someones first name (value:firstName), their last name (value:lastName, and age(value:age) and creates an object from them with the argument of person. it then runs a return which will feed that information into a single value to create simple orginizatiobn of data. </td>
   </tr>
 </table>
 
