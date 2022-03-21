@@ -20,10 +20,10 @@ function (firstName, lastName, age){
 ```
 
 | Input | Output |
-| ------------------------ | ----------------------- |
-|    Shawn, Cannon, 28     | Shawn Cannon 28         | 
-|    Allison, Cannon, 26   | Allison Cannon 26       | 
-|    Clyde, Galavant, 6    |  Clyde Galavant 6       | 
+| ------------------------ | ------------------------------------------------ |
+|    Shawn, Cannon, 28     | { firstName: Shawn, lastName: Cannon, Age: 28 }  | 
+|    Allison, Cannon, 26   | { firstName: Allison, lastName: Cannon, Age:26 } | 
+|    Clyde, Galavant, 6    | { firstName: Clyde, lastName:Galavant, Age: 6 }  | 
 
 <table>
   <tr>
